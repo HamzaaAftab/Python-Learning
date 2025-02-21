@@ -116,4 +116,8 @@ This guide covered **Python Modules, Comments, and PIP**, essential for writing 
 
 ---
 
+📌 **Author:** Hamza Aftab  
+📌 **GitHub Repository:** https://github.com/HamzaaAftab/Python-Learning
+📌 **License:** MIT  
+
 ⭐ **If you found this helpful, don't forget to star the repository!** ⭐

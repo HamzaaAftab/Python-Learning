@@ -4,21 +4,6 @@ Welcome to the ultimate guide on **programming** and specifically, **Python prog
 
 ---
 
-## Table of Contents 📑
-
-1. [What is Programming?](#what-is-programming)
-2. [Why Learn Programming?](#why-learn-programming)
-3. [Introduction to Python](#introduction-to-python)
-4. [Why Choose Python?](#why-choose-python)
-5. [Setting Up Your Environment](#setting-up-your-environment)
-6. [Basic Python Syntax](#basic-python-syntax)
-7. [Key Python Concepts](#key-python-concepts)
-8. [Resources for Learning Python](#resources-for-learning-python)
-9. [Contributing](#contributing)
-10. [License](#license)
-
----
-
 ## What is Programming? 💻
 
 Programming is the process of writing instructions that computers can understand and execute. These instructions are written in **programming languages**, which serve as a bridge between human thought processes and machine operations.
@@ -103,4 +88,13 @@ Final Thoughts 🎯
 Python is an incredibly versatile and powerful language that opens doors to countless opportunities. Whether you're interested in web development, data science, or automation, Python has something for everyone.
 
 Happy coding! 🚀
+
+---
+
+📌 **Author:** Hamza Aftab  
+📌 **GitHub Repository:** https://github.com/HamzaaAftab/Python-Learning
+📌 **License:** MIT  
+
+⭐ **If you found this helpful, don't forget to star the repository!** ⭐
+
 
