@@ -1,0 +1,10 @@
+Modules:
+Modules are the files containing the code written by somebody else which can be imported and used in our programs. In other words, It is like a library in Javascript such as React-icons and all.
+
+Pips: 
+Pip is the package manager for Python. You can use pip to install a module on your system. 
+# Pip is like NPM manager in Javascript. You can use pip to install a module on your system.
+# pip install module_name
+
+
+
