@@ -29,3 +29,4 @@ emp2 = Employee("John Doe", 240000, "Python") # 2nd Object of Employee
 
 emp1.getInfo()
 emp1.greet("Ahmed")
+
